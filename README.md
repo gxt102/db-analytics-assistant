@@ -242,7 +242,7 @@ python main.py
 
 API配置
 
-OPENAI_API_KEY=sk-afec713381754354a3e67a77741c5fee
+OPENAI_API_KEY=xxxxxxxxx
 
 OPENAI_API_BASE=https://dashscope.aliyuncs.com/compatible-mode/v1
 
@@ -252,9 +252,9 @@ MODEL_NAME=qwen-plus
 
 email_host=smtp.qq.com
 
-email_user=3182983345@qq.com
+email_user=xxxxxxxxx@qq.com
 
-email_password=jfecgtaitswddffd
+email_password=xxxxxxxxxx
 
 Vosk语音模型路径
 
@@ -268,7 +268,7 @@ conn = pymysql.connect(
 
 ​    user="root",
 
-​    password="Dnttkl1220",    
+​    password="xxxxxxxxx",    
 
 ​    db="0113",
 
@@ -350,7 +350,7 @@ conn = pymysql.connect(
 
 ​    user="root",           # 用户名
 
-​    password="Dnttkl1220", # 密码   
+​    password="xxxxxxxx", # 密码   
 
 ​    db="0113",             # 数据库名
 
