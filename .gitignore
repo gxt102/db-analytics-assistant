@@ -12,3 +12,9 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+"backend/__pycache__/" 
+"backend/.idea/" 
+"backend/.env" 
+"*.env" 
+"backend/__pycache__/" 
+"backend/.idea/" 
